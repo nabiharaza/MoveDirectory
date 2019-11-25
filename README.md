@@ -1,6 +1,5 @@
 ### Author: Nabiha_Raza ###
 
-
 # MoveDirectory
 
 Simple Python code to move the entire directory structure including folders and Subfolders
